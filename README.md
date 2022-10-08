@@ -73,6 +73,7 @@
 
   ```bash
   bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/ChangeMirrors.sh)
+  bash <(curl -sSL https://github.com/sunof-top/LinuxMirrors/raw/main/ChangeMirrors.sh)
   ```
 
   - 完整复制上面的命令到终端按回车键即可执行，若无法安装 `curl` 软件包可复制源码到本地后手动执行
@@ -107,6 +108,7 @@
 
     ```bash
     bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/DockerInstallation.sh)
+    bash <(curl -sSL https://github.com/sunof-top/LinuxMirrors/raw/main/DockerInstallation.sh)
     ```
 
     > `Docker CE`：Docker Community Edition 镜像仓库，用于下载并安装 Docker 相关软件包\
